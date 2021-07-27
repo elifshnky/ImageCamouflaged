@@ -1,0 +1,20 @@
+C:\Users\ELİF\Documents\Visual Studio 2013\Projects\ImageCamouflaged\ImageCamouflaged\obj\Debug\ImageCamouflaged.csprojAssemblyReference.cache
+C:\Users\ELİF\Documents\Visual Studio 2013\Projects\ImageCamouflaged\ImageCamouflaged\obj\Debug\ImageCamouflaged.Properties.Resources.resources
+C:\Users\ELİF\Documents\Visual Studio 2013\Projects\ImageCamouflaged\ImageCamouflaged\obj\Debug\ImageCamouflaged.csproj.GenerateResource.cache
+C:\Users\ELİF\Documents\Visual Studio 2013\Projects\ImageCamouflaged\ImageCamouflaged\obj\Debug\ImageCamouflaged.csproj.CoreCompileInputs.cache
+C:\Users\ELİF\Documents\Visual Studio 2013\Projects\ImageCamouflaged\ImageCamouflaged\bin\Debug\ImageCamouflaged.exe.config
+C:\Users\ELİF\Documents\Visual Studio 2013\Projects\ImageCamouflaged\ImageCamouflaged\bin\Debug\ImageCamouflaged.exe
+C:\Users\ELİF\Documents\Visual Studio 2013\Projects\ImageCamouflaged\ImageCamouflaged\bin\Debug\ImageCamouflaged.pdb
+C:\Users\ELİF\Documents\Visual Studio 2013\Projects\ImageCamouflaged\ImageCamouflaged\obj\Debug\ImageCamouflaged.exe
+C:\Users\ELİF\Documents\Visual Studio 2013\Projects\ImageCamouflaged\ImageCamouflaged\obj\Debug\ImageCamouflaged.pdb
+C:\Users\ELİF\Documents\Visual Studio 2013\Projects\ImageCamouflaged\ImageCamouflaged\obj\Debug\ImageCamouflaged.CamouflageWindow.resources
+C:\Users\Pohenix\OneDrive\Masaüstü\ImageCamouflaged\ImageCamouflaged\ImageCamouflaged\bin\Debug\ImageCamouflaged.exe.config
+C:\Users\Pohenix\OneDrive\Masaüstü\ImageCamouflaged\ImageCamouflaged\ImageCamouflaged\bin\Debug\ImageCamouflaged.exe
+C:\Users\Pohenix\OneDrive\Masaüstü\ImageCamouflaged\ImageCamouflaged\ImageCamouflaged\bin\Debug\ImageCamouflaged.pdb
+C:\Users\Pohenix\OneDrive\Masaüstü\ImageCamouflaged\ImageCamouflaged\ImageCamouflaged\obj\Debug\ImageCamouflaged.csprojAssemblyReference.cache
+C:\Users\Pohenix\OneDrive\Masaüstü\ImageCamouflaged\ImageCamouflaged\ImageCamouflaged\obj\Debug\ImageCamouflaged.CamouflageWindow.resources
+C:\Users\Pohenix\OneDrive\Masaüstü\ImageCamouflaged\ImageCamouflaged\ImageCamouflaged\obj\Debug\ImageCamouflaged.Properties.Resources.resources
+C:\Users\Pohenix\OneDrive\Masaüstü\ImageCamouflaged\ImageCamouflaged\ImageCamouflaged\obj\Debug\ImageCamouflaged.csproj.GenerateResource.cache
+C:\Users\Pohenix\OneDrive\Masaüstü\ImageCamouflaged\ImageCamouflaged\ImageCamouflaged\obj\Debug\ImageCamouflaged.csproj.CoreCompileInputs.cache
+C:\Users\Pohenix\OneDrive\Masaüstü\ImageCamouflaged\ImageCamouflaged\ImageCamouflaged\obj\Debug\ImageCamouflaged.exe
+C:\Users\Pohenix\OneDrive\Masaüstü\ImageCamouflaged\ImageCamouflaged\ImageCamouflaged\obj\Debug\ImageCamouflaged.pdb
